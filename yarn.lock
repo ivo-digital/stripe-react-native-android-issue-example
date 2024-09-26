@@ -2625,6 +2625,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@stripe/stripe-react-native@npm:^0.38.6":
+  version: 0.38.6
+  resolution: "@stripe/stripe-react-native@npm:0.38.6"
+  peerDependencies:
+    expo: ">=46.0.9"
+    react: "*"
+    react-native: "*"
+  peerDependenciesMeta:
+    expo:
+      optional: true
+  checksum: 2d9ee569149338a8ef11350dcdee352fd1e39e01f6a93cdc9459bd3aa8bf29a35c7eda85ef380b16534af943de5d82927b21d24826090dbe2ee149224ef0a5de
+  languageName: node
+  linkType: hard
+
 "@types/babel__core@npm:^7.1.14":
   version: 7.20.5
   resolution: "@types/babel__core@npm:7.20.5"
@@ -2998,6 +3012,7 @@ __metadata:
     "@react-native/eslint-config": 0.74.87
     "@react-native/metro-config": 0.74.87
     "@react-native/typescript-config": 0.74.87
+    "@stripe/stripe-react-native": ^0.38.6
     "@types/react": ^18.2.6
     "@types/react-test-renderer": ^18.0.0
     babel-jest: ^29.6.3
